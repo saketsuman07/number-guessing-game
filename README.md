@@ -1,2 +1,2 @@
 # number-guessing-game
-number guessing game created using python
+guess a number with the help of python.
